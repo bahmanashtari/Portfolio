@@ -1,7 +1,7 @@
 # BAHMAN ASHTARI	 							 
 bahmanashtari@csus.edu	Cell: (916) 204 4964 Citrus Height, CA 
 
-I am a frontend developer interested in building reusable, well-constructed web applications, working with excellent people and constantly learning. My educational background can be utilized in various areas such as: problem solving, software design, development, debugging and testing.
+I am a full-stack developer interested in building reusable, well-constructed web applications, working with excellent people and constantly learning. My educational background can be utilized in various areas such as: problem solving, software design, development, debugging and testing.
 
 # Related Skills
 Proficient with HTML, CSS, JavaScript, React, Redux, jQuery, Git, PHP, and MySQL.
